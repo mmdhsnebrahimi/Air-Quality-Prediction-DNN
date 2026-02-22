@@ -11,3 +11,9 @@ The Jupyter Notebook (`Air-Quality-Prediction-DNN.ipynb`) demonstrates the compl
 * **Real-World Dataset:** Processing and analyzing the UCI Air Quality dataset, focusing on sensor responses and environmental metrics.
 * **Regression Optimization:** Training the network to predict continuous values rather than discrete classes, highlighting the versatility of deep learning.
 * **Performance Metrics:** Rigorously evaluating the model's accuracy and convergence using Mean Squared Error (MSE) and Mean Absolute Error
+## Technologies Used
+* **Python 3**
+* **Jupyter Notebook**
+* **NumPy & Pandas** (Data structuring and mathematical operations)
+* **Scikit-Learn** (Data scaling and train-test splitting)
+* **Matplotlib** (Visualizing data and training results)
